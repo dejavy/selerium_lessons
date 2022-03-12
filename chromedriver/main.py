@@ -42,6 +42,7 @@ driver = webdriver.Chrome(
     executable_path="/Users/dejavy/PycharmProjects/selerium_lessons/chromedriver/chromedriver",
     options=options
 )
+
 # +proxy
 # driver = webdriver.Chrome(
 #     executable_path="/Users/dejavy/PycharmProjects/selerium_lessons/chromedriver/chromedriver",
