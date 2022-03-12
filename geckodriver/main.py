@@ -1,23 +1,60 @@
-from selenium import webdriver
+# from selenium import webdriver
+# from seleniumwire import webdriver  # for proxy
 import time
-import  random
+# import random
 from fake_useragent import UserAgent
+# from proxy_auth_data import login, pasword
 
 # urls
 url_1 = "https://www.olx.ua/"
 url_2 = "https://www.whatismybrowser.com/detect/what-is-my-user-agent/"
+url_3 = "https://2ip.ua/"
+
 # add useragent
 useragent = UserAgent()
+
 # optoins
 options = webdriver.FirefoxOptions()
+
 # change useragent
 # options.set_preference("general.useragent.override", "Hello friend")
 options.set_preference("general.useragent.override", useragent.random)
+
+# set proxy
+# proxy = "12.3.243.178:8080"
+# firefox_capabilities = webdriver.DesiredCapabilities.FIREFOX
+# firefox_capabilities["marionette"] = True
+# firefox_capabilities["proxy"] = {
+#     "poxyTupe": "MANUAL",
+#     "httpProxy": proxy,
+#     "ftpProxy": proxy,
+#     "sslProxy": proxy
+# }
+
+# proxy_options = {
+#     "proxy": {
+#         "https": f"http://{login}:{password}@12.3.243.178:8080"
+#     }
+# }
+
 # driwer
 driver = webdriver.Firefox(
     executable_path="/Users/dejavy/PycharmProjects/selerium_lessons/geckodriver/geckodriver",
     options=options
 )
+
+# driwer +proxy
+# driver = webdriver.Firefox(
+#     executable_path="/Users/dejavy/PycharmProjects/selerium_lessons/geckodriver/geckodriver",
+#     seleniumwire_options=proxy_options
+# )
+
+# driver = webdriver.Firefox(
+#     executable_path="/Users/dejavy/PycharmProjects/selerium_lessons/geckodriver/geckodriver",
+#     options=options,
+#     proxy=proxy
+# )
+
 
 try:
     driver.get(url=url_2)
