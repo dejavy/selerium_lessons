@@ -147,3 +147,138 @@ JavaScript warning: https://static.olx.ua/static/olxua/packed/sw13a44cd392b881aa
 JavaScript warning: https://static.olx.ua/static/olxua/packed/sw13a44cd392b881aa3004b685634d578d.js, line 161: WebGL context was lost.
 console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.olx.ua"
 1647118613073	Marionette	INFO	Stopped listening on port 60647
+1647197974260	geckodriver	INFO	Listening on 127.0.0.1:51530
+1647197974777	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "user-agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:84.0) Gecko/20100101 Firefox/84.0" "--remote-debugging-port" "51531" "-foreground" "-no-remote" "-profile" "/var/folders/fd/rv1xkx8d6td0_dkv_6kq_rk40000gn/T/rust_mozprofilepeO3Xv"
+1647197975441	Marionette	INFO	Marionette enabled
+2022-03-13 20:59:36.309 firefox-bin[3712:22793597] Warning: Expected min height of view: (<NSButton: 0x11f827400>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-03-13 20:59:36.310 firefox-bin[3712:22793597] Warning: Expected min height of view: (<NSButton: 0x12e9b7c00>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-03-13 20:59:36.310 firefox-bin[3712:22793597] Warning: Expected min height of view: (<NSButton: 0x12e9b6800>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-03-13 20:59:36.311 firefox-bin[3712:22793597] Warning: Expected min height of view: (<NSButton: 0x12e9b3c00>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-03-13 20:59:36.312 firefox-bin[3712:22793597] Warning: Expected min height of view: (<NSButton: 0x12e9b8c00>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-03-13 20:59:36.313 firefox-bin[3712:22793597] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x12e9b4400>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-03-13 20:59:36.314 firefox-bin[3712:22793597] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x10f56f400>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/fd/rv1xkx8d6td0_dkv_6kq_rk40000gn/T/rust_mozprofilepeO3Xv/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 241"  data: no]
+DevTools listening on ws://localhost:51531/devtools/browser/7cddc08f-636a-4bc9-a84a-80d8847810d6
+1647197977765	Marionette	INFO	Listening on port 51538
+1647197977786	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.olx.ua/static/olxua/packed/sw13a44cd392b881aa3004b685634d578d.js, line 161: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.olx.ua/static/olxua/packed/sw13a44cd392b881aa3004b685634d578d.js, line 161: WebGL context was lost.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.olx.ua"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.olx.ua"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.olx.ua"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.olx.ua"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.olx.ua"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: https://www.olx.ua/app/static/js/90654.89fcf9427.chunk.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.olx.ua/app/static/js/90654.89fcf9427.chunk.js, line 1: WebGL context was lost.
+JavaScript warning: https://www.olx.ua/app/static/js/90654.89fcf9427.chunk.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.olx.ua/app/static/js/90654.89fcf9427.chunk.js, line 1: WebGL context was lost.
+JavaScript warning: https://www.olx.ua/app/static/js/90654.89fcf9427.chunk.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.olx.ua/app/static/js/90654.89fcf9427.chunk.js, line 1: WebGL context was lost.
+JavaScript warning: https://www.olx.ua/app/static/js/90654.89fcf9427.chunk.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.olx.ua/app/static/js/90654.89fcf9427.chunk.js, line 1: WebGL context was lost.
+JavaScript warning: https://www.olx.ua/app/static/js/90654.89fcf9427.chunk.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.olx.ua/app/static/js/90654.89fcf9427.chunk.js, line 1: WebGL context was lost.
+JavaScript warning: https://www.olx.ua/app/static/js/90654.89fcf9427.chunk.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.olx.ua/app/static/js/90654.89fcf9427.chunk.js, line 1: WebGL context was lost.
+1647197993851	Marionette	INFO	Stopped listening on port 51538
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1647198004385	geckodriver	INFO	Listening on 127.0.0.1:51661
+1647198004401	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "user-agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:84.0) Gecko/20100101 Firefox/84.0" "--remote-debugging-port" "51662" "-foreground" "-no-remote" "-profile" "/var/folders/fd/rv1xkx8d6td0_dkv_6kq_rk40000gn/T/rust_mozprofileISkYHI"
+1647198004844	Marionette	INFO	Marionette enabled
+2022-03-13 21:00:05.653 firefox-bin[3911:22794869] Warning: Expected min height of view: (<NSButton: 0x128932000>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-03-13 21:00:05.654 firefox-bin[3911:22794869] Warning: Expected min height of view: (<NSButton: 0x12f224400>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-03-13 21:00:05.654 firefox-bin[3911:22794869] Warning: Expected min height of view: (<NSButton: 0x12f228400>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-03-13 21:00:05.655 firefox-bin[3911:22794869] Warning: Expected min height of view: (<NSButton: 0x12f222400>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-03-13 21:00:05.656 firefox-bin[3911:22794869] Warning: Expected min height of view: (<NSButton: 0x12f227800>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-03-13 21:00:05.657 firefox-bin[3911:22794869] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x12f228c00>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-03-13 21:00:05.658 firefox-bin[3911:22794869] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x12f267800>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/fd/rv1xkx8d6td0_dkv_6kq_rk40000gn/T/rust_mozprofileISkYHI/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 241"  data: no]
+DevTools listening on ws://localhost:51662/devtools/browser/8cafe5af-ed5f-45f6-81d7-eb410fb3d9bc
+1647198007004	Marionette	INFO	Listening on port 51667
+1647198007087	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.olx.ua/static/olxua/packed/sw13a44cd392b881aa3004b685634d578d.js, line 161: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.olx.ua/static/olxua/packed/sw13a44cd392b881aa3004b685634d578d.js, line 161: WebGL context was lost.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.olx.ua"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.olx.ua"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.olx.ua"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.olx.ua"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.olx.ua"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: https://www.olx.ua/app/static/js/90654.89fcf9427.chunk.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.olx.ua/app/static/js/90654.89fcf9427.chunk.js, line 1: WebGL context was lost.
+JavaScript warning: https://www.olx.ua/app/static/js/90654.89fcf9427.chunk.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.olx.ua/app/static/js/90654.89fcf9427.chunk.js, line 1: WebGL context was lost.
+JavaScript warning: https://www.olx.ua/app/static/js/90654.89fcf9427.chunk.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.olx.ua/app/static/js/90654.89fcf9427.chunk.js, line 1: WebGL context was lost.
+JavaScript warning: https://www.olx.ua/app/static/js/90654.89fcf9427.chunk.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.olx.ua/app/static/js/90654.89fcf9427.chunk.js, line 1: WebGL context was lost.
+JavaScript warning: https://www.olx.ua/app/static/js/90654.89fcf9427.chunk.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.olx.ua/app/static/js/90654.89fcf9427.chunk.js, line 1: WebGL context was lost.
+JavaScript warning: https://www.olx.ua/app/static/js/90654.89fcf9427.chunk.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.olx.ua/app/static/js/90654.89fcf9427.chunk.js, line 1: WebGL context was lost.
+JavaScript warning: https://www.olx.ua/app/static/js/90654.89fcf9427.chunk.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.olx.ua/app/static/js/90654.89fcf9427.chunk.js, line 1: WebGL context was lost.
+JavaScript warning: https://www.olx.ua/app/static/js/90654.89fcf9427.chunk.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.olx.ua/app/static/js/90654.89fcf9427.chunk.js, line 1: WebGL context was lost.
+JavaScript warning: https://www.olx.ua/app/static/js/90654.89fcf9427.chunk.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.olx.ua/app/static/js/90654.89fcf9427.chunk.js, line 1: WebGL context was lost.
+JavaScript warning: https://www.olx.ua/app/static/js/90654.89fcf9427.chunk.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.olx.ua/app/static/js/90654.89fcf9427.chunk.js, line 1: WebGL context was lost.
+JavaScript warning: https://www.olx.ua/app/static/js/90654.89fcf9427.chunk.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.olx.ua/app/static/js/90654.89fcf9427.chunk.js, line 1: WebGL context was lost.
+JavaScript warning: https://www.olx.ua/app/static/js/90654.89fcf9427.chunk.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.olx.ua/app/static/js/90654.89fcf9427.chunk.js, line 1: WebGL context was lost.
+JavaScript warning: https://www.olx.ua/app/static/js/90654.89fcf9427.chunk.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.olx.ua/app/static/js/90654.89fcf9427.chunk.js, line 1: WebGL context was lost.
+JavaScript warning: https://www.olx.ua/app/static/js/90654.89fcf9427.chunk.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.olx.ua/app/static/js/90654.89fcf9427.chunk.js, line 1: WebGL context was lost.
+JavaScript warning: https://www.olx.ua/app/static/js/90654.89fcf9427.chunk.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.olx.ua/app/static/js/90654.89fcf9427.chunk.js, line 1: WebGL context was lost.
+JavaScript warning: https://www.olx.ua/app/static/js/90654.89fcf9427.chunk.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.olx.ua/app/static/js/90654.89fcf9427.chunk.js, line 1: WebGL context was lost.
+JavaScript warning: https://www.olx.ua/app/static/js/90654.89fcf9427.chunk.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.olx.ua/app/static/js/90654.89fcf9427.chunk.js, line 1: WebGL context was lost.
+JavaScript warning: https://www.olx.ua/app/static/js/90654.89fcf9427.chunk.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.olx.ua/app/static/js/90654.89fcf9427.chunk.js, line 1: WebGL context was lost.
+1647198051896	geckodriver	INFO	Listening on 127.0.0.1:51833
+1647198051919	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "user-agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:84.0) Gecko/20100101 Firefox/84.0" "--remote-debugging-port" "51834" "-foreground" "-no-remote" "-profile" "/var/folders/fd/rv1xkx8d6td0_dkv_6kq_rk40000gn/T/rust_mozprofileyruava"
+1647198052566	Marionette	INFO	Marionette enabled
+2022-03-13 21:00:53.419 firefox-bin[4190:22796514] Warning: Expected min height of view: (<NSButton: 0x128578400>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-03-13 21:00:53.420 firefox-bin[4190:22796514] Warning: Expected min height of view: (<NSButton: 0x12f459800>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-03-13 21:00:53.421 firefox-bin[4190:22796514] Warning: Expected min height of view: (<NSButton: 0x12f45dc00>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-03-13 21:00:53.421 firefox-bin[4190:22796514] Warning: Expected min height of view: (<NSButton: 0x12f457800>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-03-13 21:00:53.422 firefox-bin[4190:22796514] Warning: Expected min height of view: (<NSButton: 0x12f458000>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-03-13 21:00:53.423 firefox-bin[4190:22796514] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x12f45ac00>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-03-13 21:00:53.424 firefox-bin[4190:22796514] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x12f496c00>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/fd/rv1xkx8d6td0_dkv_6kq_rk40000gn/T/rust_mozprofileyruava/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 241"  data: no]
+DevTools listening on ws://localhost:51834/devtools/browser/0bba3169-4034-4213-a207-60d0e78e76ff
+1647198054784	Marionette	INFO	Listening on port 51839
+1647198054846	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.olx.ua/static/olxua/packed/sw13a44cd392b881aa3004b685634d578d.js, line 161: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.olx.ua/static/olxua/packed/sw13a44cd392b881aa3004b685634d578d.js, line 161: WebGL context was lost.
+JavaScript warning: https://static.olx.ua/static/olxua/packed/sw588d06e545d3969ef3575816896d7b08.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.olx.ua/static/olxua/packed/sw588d06e545d3969ef3575816896d7b08.js, line 37: unreachable code after return statement
+JavaScript error: chrome://browser/content/browser.js, line 4694: TypeError: gBrowser is undefined
+1647198160932	Marionette	INFO	Stopped listening on port 51839
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://browser/content/browser.js, line 4694: TypeError: gBrowser is undefined
+1647198163753	Marionette	INFO	Stopped listening on port 51667
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.

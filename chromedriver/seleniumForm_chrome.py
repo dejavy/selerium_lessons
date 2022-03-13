@@ -27,7 +27,7 @@ try:
     driver.get(url=url_2)
     time.sleep(3)
 
-    #  login
+    # login
     # email_input = driver.find_element(id, "userEmail") # Before
     email_input = driver.find_element(By.ID, "userEmail")  # After
     email_input.clear()
@@ -39,10 +39,10 @@ try:
     password_input.clear()
     password_input.send_keys(olx_password)
     time.sleep(1)
-    password_input.send_keys(Keys.ENTER)
 
-    #  button press
+    # button press
     # button_press = driver.find_element(By.ID, "se_userLogin").click()
+    password_input.send_keys(Keys.ENTER)
     time.sleep(7)
 
 except Exception as ex:
