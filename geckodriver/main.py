@@ -16,7 +16,7 @@ useragent = UserAgent()
 # optoins
 options = webdriver.FirefoxOptions()
 
-# change useragent
+# user-agent
 # options.set_preference("general.useragent.override", "Hello friend")
 options.set_preference("general.useragent.override", useragent.random)
 

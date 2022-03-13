@@ -21,8 +21,9 @@ useragent = UserAgent()
 # options
 # https://deviceatlas.com/blog/list-of-user-agent-strings
 # https://deviceatlas.com/blog/mobile-browser-user-agent-strings
-
 options = webdriver.ChromeOptions()
+
+# user-agent
 # options.add_argument("user-agent=HelloWorld:)")
 # options.add_argument("user-agent=Mozilla/5.0 (Linux; Android 7.0; SM-G930V Build/NRD90M) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.125 Mobile Safari/537.36")
 # options.add_argument(f"user-agent={random.choice(user_agents_list)}")
